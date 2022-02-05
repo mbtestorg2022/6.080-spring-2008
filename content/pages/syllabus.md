@@ -21,22 +21,120 @@ Requirements
 
 Students taking 6.080 will be graded on the following basis:
 
-| FRACTIONS | ACTIVITIES |
-| --- | --- |
-| 2/7 | Problem sets |
-| 2/7 | Midterm |
-| 2/7 | Final exam |
-| 1/7 | Class participation 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+FRACTIONS
+{{< thclose >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2/7
+{{< tdclose >}}
+{{< tdopen >}}
+Problem sets
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2/7
+{{< tdclose >}}
+{{< tdopen >}}
+Midterm
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2/7
+{{< tdclose >}}
+{{< tdopen >}}
+Final exam
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1/7
+{{< tdclose >}}
+{{< tdopen >}}
+Class participation
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Students taking 6.089 will be graded on the following basis:
 
-| FRACTIONS | ACTIVITIES |
-| --- | --- |
-| 2/9 | Problem sets |
-| 2/9 | Midterm |
-| 2/9 | Final exam |
-| 1/9 | Class participation |
-| 2/9 | Scribe notes 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+FRACTIONS
+{{< thclose >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2/9
+{{< tdclose >}}
+{{< tdopen >}}
+Problem sets
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2/9
+{{< tdclose >}}
+{{< tdopen >}}
+Midterm
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2/9
+{{< tdclose >}}
+{{< tdopen >}}
+Final exam
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1/9
+{{< tdclose >}}
+{{< tdopen >}}
+Class participation
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2/9
+{{< tdclose >}}
+{{< tdopen >}}
+Scribe notes
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 The only differences are that 6.089 includes a scribe notes requirement whereas 6.080 does not, and that 6.089 is 12-unit whereas 6.080 is 9-unit. Students should be aware that scribe notes are a nontrivial responsibility (basically a small project), requiring maturity and strong command of the material. Thus, the "default recommendation" is for underclassmen to take 6.080 and for upperclassmen to take 6.089.
 

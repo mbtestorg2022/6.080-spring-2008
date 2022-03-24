@@ -14,7 +14,7 @@ This course provides a challenging introduction to some of the central ideas of 
 Pedagogy
 --------
 
-Professor Aaronson's teaching statement: (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://scottaaronson.com/teaching.pdf))
+Professor Aaronson's teaching statement: ([PDF](http://scottaaronson.com/teaching.pdf))
 
 Requirements
 ------------

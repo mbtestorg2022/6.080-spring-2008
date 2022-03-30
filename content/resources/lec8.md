@@ -5,6 +5,7 @@ description: Lecture notes on polynomial time, computability, complexity, the me
   examples.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/6-080-great-ideas-in-theoretical-computer-science-spring-2008/6bb9d9288a25008309519b3bc454f79b_lec8.pdf
 file_type: application/pdf
+parent_uid: d0a21896-13ba-3f84-e59d-7931cab7d2cf
 resourcetype: Document
 title: Lecture 8
 uid: 6bb9d928-8a25-0083-0951-9b3bc454f79b

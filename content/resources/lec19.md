@@ -5,6 +5,7 @@ description: "Lecture notes on Interactive proofs, machine learning, Philosophy 
   \ and sample complexity."
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/6-080-great-ideas-in-theoretical-computer-science-spring-2008/2047a2471d1d43dc22c3b08ae8043ec9_lec19.pdf
 file_type: application/pdf
+parent_uid: d0a21896-13ba-3f84-e59d-7931cab7d2cf
 resourcetype: Document
 title: Lecture 19
 uid: 2047a247-1d1d-43dc-22c3-b08ae8043ec9
